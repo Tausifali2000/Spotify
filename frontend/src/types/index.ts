@@ -10,7 +10,7 @@ export interface Song {
 	updatedAt: string;
 }
 
-export interface Album {
+export interface Album{
 	_id: string;
 	title: string;
 	artist: string;
